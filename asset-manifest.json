@@ -1,0 +1,13 @@
+{
+  "main.css": "/simpleblog/static/css/main.3691c6dd.chunk.css",
+  "main.js": "/simpleblog/static/js/main.10160e61.chunk.js",
+  "main.js.map": "/simpleblog/static/js/main.10160e61.chunk.js.map",
+  "runtime~main.js": "/simpleblog/static/js/runtime~main.dfe4ec47.js",
+  "runtime~main.js.map": "/simpleblog/static/js/runtime~main.dfe4ec47.js.map",
+  "static/js/2.713034f0.chunk.js": "/simpleblog/static/js/2.713034f0.chunk.js",
+  "static/js/2.713034f0.chunk.js.map": "/simpleblog/static/js/2.713034f0.chunk.js.map",
+  "index.html": "/simpleblog/index.html",
+  "precache-manifest.4f4a4033924f0c05d2e6c46ade91f30c.js": "/simpleblog/precache-manifest.4f4a4033924f0c05d2e6c46ade91f30c.js",
+  "service-worker.js": "/simpleblog/service-worker.js",
+  "static/css/main.3691c6dd.chunk.css.map": "/simpleblog/static/css/main.3691c6dd.chunk.css.map"
+}
